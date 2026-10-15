@@ -1,0 +1,895 @@
+{
+  "mode": "Reduced-motion static layout inspection; normal animation verified separately in browser tests",
+  "browser": "Microsoft Edge",
+  "routes": 22,
+  "widths": [
+    320,
+    390,
+    768,
+    1024,
+    1440
+  ],
+  "results": [
+    {
+      "width": 320,
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "GRP & composite doors for considered spaces"
+    },
+    {
+      "width": 320,
+      "route": "/doors",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Explore the door collections | Pureline"
+    },
+    {
+      "width": 320,
+      "route": "/doors/exterior-grp",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Exterior GRP doors | Pureline"
+    },
+    {
+      "width": 320,
+      "route": "/doors/enm-metal",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "ENM metal doors | Pureline"
+    },
+    {
+      "width": 320,
+      "route": "/doors/smooth",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Smooth doors | Pureline"
+    },
+    {
+      "width": 320,
+      "route": "/doors/sight-glass-balcony",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Sight glass & balcony doors | Pureline"
+    },
+    {
+      "width": 320,
+      "route": "/doors/bathroom-specialist",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Bathroom & specialist doors | Pureline"
+    },
+    {
+      "width": 320,
+      "route": "/doors/grp-doors-frames",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "GRP doors & frames | Pureline"
+    },
+    {
+      "width": 320,
+      "route": "/doors/abs",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "ABS interior doors | Pureline"
+    },
+    {
+      "width": 320,
+      "route": "/products/arch",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Arch | Pureline"
+    },
+    {
+      "width": 320,
+      "route": "/accessories",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Frames, cabinets & accessories | Pureline"
+    },
+    {
+      "width": 320,
+      "route": "/why-pureline",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Why Pureline | Pureline"
+    },
+    {
+      "width": 320,
+      "route": "/manufacturing-quality",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Manufacturing & quality | Pureline"
+    },
+    {
+      "width": 320,
+      "route": "/applications",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Doors for homes and building projects | Pureline"
+    },
+    {
+      "width": 320,
+      "route": "/trade-projects",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Trade & project enquiries | Pureline"
+    },
+    {
+      "width": 320,
+      "route": "/about",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "About Pureline | Pureline"
+    },
+    {
+      "width": 320,
+      "route": "/resources",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Resources & practical guidance | Pureline"
+    },
+    {
+      "width": 320,
+      "route": "/request-quote",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Request a quote | Pureline"
+    },
+    {
+      "width": 320,
+      "route": "/contact",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Contact Pureline | Pureline"
+    },
+    {
+      "width": 320,
+      "route": "/privacy",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Privacy information · draft | Pureline"
+    },
+    {
+      "width": 320,
+      "route": "/cookies",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Cookie information | Pureline"
+    },
+    {
+      "width": 320,
+      "route": "/terms",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Website terms · draft | Pureline"
+    },
+    {
+      "width": 390,
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "GRP & composite doors for considered spaces"
+    },
+    {
+      "width": 390,
+      "route": "/doors",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Explore the door collections | Pureline"
+    },
+    {
+      "width": 390,
+      "route": "/doors/exterior-grp",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Exterior GRP doors | Pureline"
+    },
+    {
+      "width": 390,
+      "route": "/doors/enm-metal",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "ENM metal doors | Pureline"
+    },
+    {
+      "width": 390,
+      "route": "/doors/smooth",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Smooth doors | Pureline"
+    },
+    {
+      "width": 390,
+      "route": "/doors/sight-glass-balcony",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Sight glass & balcony doors | Pureline"
+    },
+    {
+      "width": 390,
+      "route": "/doors/bathroom-specialist",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Bathroom & specialist doors | Pureline"
+    },
+    {
+      "width": 390,
+      "route": "/doors/grp-doors-frames",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "GRP doors & frames | Pureline"
+    },
+    {
+      "width": 390,
+      "route": "/doors/abs",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "ABS interior doors | Pureline"
+    },
+    {
+      "width": 390,
+      "route": "/products/arch",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Arch | Pureline"
+    },
+    {
+      "width": 390,
+      "route": "/accessories",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Frames, cabinets & accessories | Pureline"
+    },
+    {
+      "width": 390,
+      "route": "/why-pureline",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Why Pureline | Pureline"
+    },
+    {
+      "width": 390,
+      "route": "/manufacturing-quality",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Manufacturing & quality | Pureline"
+    },
+    {
+      "width": 390,
+      "route": "/applications",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Doors for homes and building projects | Pureline"
+    },
+    {
+      "width": 390,
+      "route": "/trade-projects",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Trade & project enquiries | Pureline"
+    },
+    {
+      "width": 390,
+      "route": "/about",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "About Pureline | Pureline"
+    },
+    {
+      "width": 390,
+      "route": "/resources",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Resources & practical guidance | Pureline"
+    },
+    {
+      "width": 390,
+      "route": "/request-quote",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Request a quote | Pureline"
+    },
+    {
+      "width": 390,
+      "route": "/contact",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Contact Pureline | Pureline"
+    },
+    {
+      "width": 390,
+      "route": "/privacy",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Privacy information · draft | Pureline"
+    },
+    {
+      "width": 390,
+      "route": "/cookies",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Cookie information | Pureline"
+    },
+    {
+      "width": 390,
+      "route": "/terms",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Website terms · draft | Pureline"
+    },
+    {
+      "width": 768,
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "GRP & composite doors for considered spaces"
+    },
+    {
+      "width": 768,
+      "route": "/doors",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Explore the door collections | Pureline"
+    },
+    {
+      "width": 768,
+      "route": "/doors/exterior-grp",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Exterior GRP doors | Pureline"
+    },
+    {
+      "width": 768,
+      "route": "/doors/enm-metal",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "ENM metal doors | Pureline"
+    },
+    {
+      "width": 768,
+      "route": "/doors/smooth",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Smooth doors | Pureline"
+    },
+    {
+      "width": 768,
+      "route": "/doors/sight-glass-balcony",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Sight glass & balcony doors | Pureline"
+    },
+    {
+      "width": 768,
+      "route": "/doors/bathroom-specialist",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Bathroom & specialist doors | Pureline"
+    },
+    {
+      "width": 768,
+      "route": "/doors/grp-doors-frames",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "GRP doors & frames | Pureline"
+    },
+    {
+      "width": 768,
+      "route": "/doors/abs",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "ABS interior doors | Pureline"
+    },
+    {
+      "width": 768,
+      "route": "/products/arch",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Arch | Pureline"
+    },
+    {
+      "width": 768,
+      "route": "/accessories",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Frames, cabinets & accessories | Pureline"
+    },
+    {
+      "width": 768,
+      "route": "/why-pureline",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Why Pureline | Pureline"
+    },
+    {
+      "width": 768,
+      "route": "/manufacturing-quality",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Manufacturing & quality | Pureline"
+    },
+    {
+      "width": 768,
+      "route": "/applications",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Doors for homes and building projects | Pureline"
+    },
+    {
+      "width": 768,
+      "route": "/trade-projects",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Trade & project enquiries | Pureline"
+    },
+    {
+      "width": 768,
+      "route": "/about",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "About Pureline | Pureline"
+    },
+    {
+      "width": 768,
+      "route": "/resources",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Resources & practical guidance | Pureline"
+    },
+    {
+      "width": 768,
+      "route": "/request-quote",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Request a quote | Pureline"
+    },
+    {
+      "width": 768,
+      "route": "/contact",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Contact Pureline | Pureline"
+    },
+    {
+      "width": 768,
+      "route": "/privacy",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Privacy information · draft | Pureline"
+    },
+    {
+      "width": 768,
+      "route": "/cookies",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Cookie information | Pureline"
+    },
+    {
+      "width": 768,
+      "route": "/terms",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Website terms · draft | Pureline"
+    },
+    {
+      "width": 1024,
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "GRP & composite doors for considered spaces"
+    },
+    {
+      "width": 1024,
+      "route": "/doors",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Explore the door collections | Pureline"
+    },
+    {
+      "width": 1024,
+      "route": "/doors/exterior-grp",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Exterior GRP doors | Pureline"
+    },
+    {
+      "width": 1024,
+      "route": "/doors/enm-metal",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "ENM metal doors | Pureline"
+    },
+    {
+      "width": 1024,
+      "route": "/doors/smooth",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Smooth doors | Pureline"
+    },
+    {
+      "width": 1024,
+      "route": "/doors/sight-glass-balcony",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Sight glass & balcony doors | Pureline"
+    },
+    {
+      "width": 1024,
+      "route": "/doors/bathroom-specialist",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Bathroom & specialist doors | Pureline"
+    },
+    {
+      "width": 1024,
+      "route": "/doors/grp-doors-frames",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "GRP doors & frames | Pureline"
+    },
+    {
+      "width": 1024,
+      "route": "/doors/abs",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "ABS interior doors | Pureline"
+    },
+    {
+      "width": 1024,
+      "route": "/products/arch",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Arch | Pureline"
+    },
+    {
+      "width": 1024,
+      "route": "/accessories",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Frames, cabinets & accessories | Pureline"
+    },
+    {
+      "width": 1024,
+      "route": "/why-pureline",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Why Pureline | Pureline"
+    },
+    {
+      "width": 1024,
+      "route": "/manufacturing-quality",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Manufacturing & quality | Pureline"
+    },
+    {
+      "width": 1024,
+      "route": "/applications",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Doors for homes and building projects | Pureline"
+    },
+    {
+      "width": 1024,
+      "route": "/trade-projects",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Trade & project enquiries | Pureline"
+    },
+    {
+      "width": 1024,
+      "route": "/about",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "About Pureline | Pureline"
+    },
+    {
+      "width": 1024,
+      "route": "/resources",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Resources & practical guidance | Pureline"
+    },
+    {
+      "width": 1024,
+      "route": "/request-quote",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Request a quote | Pureline"
+    },
+    {
+      "width": 1024,
+      "route": "/contact",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Contact Pureline | Pureline"
+    },
+    {
+      "width": 1024,
+      "route": "/privacy",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Privacy information · draft | Pureline"
+    },
+    {
+      "width": 1024,
+      "route": "/cookies",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Cookie information | Pureline"
+    },
+    {
+      "width": 1024,
+      "route": "/terms",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Website terms · draft | Pureline"
+    },
+    {
+      "width": 1440,
+      "route": "/",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "GRP & composite doors for considered spaces"
+    },
+    {
+      "width": 1440,
+      "route": "/doors",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Explore the door collections | Pureline"
+    },
+    {
+      "width": 1440,
+      "route": "/doors/exterior-grp",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Exterior GRP doors | Pureline"
+    },
+    {
+      "width": 1440,
+      "route": "/doors/enm-metal",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "ENM metal doors | Pureline"
+    },
+    {
+      "width": 1440,
+      "route": "/doors/smooth",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Smooth doors | Pureline"
+    },
+    {
+      "width": 1440,
+      "route": "/doors/sight-glass-balcony",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Sight glass & balcony doors | Pureline"
+    },
+    {
+      "width": 1440,
+      "route": "/doors/bathroom-specialist",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Bathroom & specialist doors | Pureline"
+    },
+    {
+      "width": 1440,
+      "route": "/doors/grp-doors-frames",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "GRP doors & frames | Pureline"
+    },
+    {
+      "width": 1440,
+      "route": "/doors/abs",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "ABS interior doors | Pureline"
+    },
+    {
+      "width": 1440,
+      "route": "/products/arch",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Arch | Pureline"
+    },
+    {
+      "width": 1440,
+      "route": "/accessories",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Frames, cabinets & accessories | Pureline"
+    },
+    {
+      "width": 1440,
+      "route": "/why-pureline",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Why Pureline | Pureline"
+    },
+    {
+      "width": 1440,
+      "route": "/manufacturing-quality",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Manufacturing & quality | Pureline"
+    },
+    {
+      "width": 1440,
+      "route": "/applications",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Doors for homes and building projects | Pureline"
+    },
+    {
+      "width": 1440,
+      "route": "/trade-projects",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Trade & project enquiries | Pureline"
+    },
+    {
+      "width": 1440,
+      "route": "/about",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "About Pureline | Pureline"
+    },
+    {
+      "width": 1440,
+      "route": "/resources",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Resources & practical guidance | Pureline"
+    },
+    {
+      "width": 1440,
+      "route": "/request-quote",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Request a quote | Pureline"
+    },
+    {
+      "width": 1440,
+      "route": "/contact",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Contact Pureline | Pureline"
+    },
+    {
+      "width": 1440,
+      "route": "/privacy",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Privacy information · draft | Pureline"
+    },
+    {
+      "width": 1440,
+      "route": "/cookies",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Cookie information | Pureline"
+    },
+    {
+      "width": 1440,
+      "route": "/terms",
+      "status": 200,
+      "overflow": false,
+      "h1": 1,
+      "title": "Website terms · draft | Pureline"
+    }
+  ],
+  "errors": []
+}

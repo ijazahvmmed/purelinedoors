@@ -1,0 +1,434 @@
+[
+  {
+    "name": "Arch",
+    "family": "Exterior",
+    "slug": "arch",
+    "image": "/images/arch.webp",
+    "imageWidth": 650,
+    "imageHeight": 1270,
+    "sourcePage": 10,
+    "sourceFile": "PURELINE DOOR.pdf",
+    "sourceLabel": "Arch",
+    "corroboratingSourceFile": "Pureline_GRP_Door_Catalogue (2).pdf",
+    "corroboratingSourcePage": 10,
+    "sourceCropPixels": [
+      150,
+      434,
+      800,
+      1704
+    ],
+    "specifications": {
+      "thicknessMm": 44,
+      "doorFrameWidthMm": "840-1100",
+      "doorFrameHeightMm": 2040
+    },
+    "depictedColour": "Dark blue",
+    "reviewStatus": "needs_review",
+    "ukPublished": false,
+    "ukAvailabilityConfirmed": false,
+    "imageRightsConfirmed": false,
+    "certificationApproved": false,
+    "publicationNotes": "Catalogue transcription only. Review exact model, frame versus leaf dimensions, UK availability, image rights and applicability before publication. No performance or compliance claim is verified by this record."
+  },
+  {
+    "name": "Twin Vertical & W/Transom",
+    "family": "Exterior",
+    "slug": "twin-vertical",
+    "image": "/images/twin-vertical.webp",
+    "imageWidth": 550,
+    "imageHeight": 1144,
+    "sourcePage": 7,
+    "sourceFile": "PURELINE DOOR.pdf",
+    "sourceLabel": "Twin Vertical & W/Transom",
+    "corroboratingSourceFile": "Pureline_GRP_Door_Catalogue (2).pdf",
+    "corroboratingSourcePage": 7,
+    "sourceCropPixels": [
+      1016,
+      430,
+      1566,
+      1574
+    ],
+    "specifications": {
+      "thicknessMm": 44,
+      "doorFrameWidthMm": "900 / 1000",
+      "doorFrameHeightMm": 2450
+    },
+    "depictedColour": "Rosewood",
+    "reviewStatus": "needs_review",
+    "ukPublished": false,
+    "ukAvailabilityConfirmed": false,
+    "imageRightsConfirmed": false,
+    "certificationApproved": false,
+    "publicationNotes": "Catalogue transcription only. Review exact model, frame versus leaf dimensions, UK availability, image rights and applicability before publication. No performance or compliance claim is verified by this record."
+  },
+  {
+    "name": "Triple Square & W/Transom",
+    "family": "Exterior",
+    "slug": "triple-square",
+    "image": "/images/triple-square.webp",
+    "imageWidth": 628,
+    "imageHeight": 1260,
+    "sourcePage": 9,
+    "sourceFile": "PURELINE DOOR.pdf",
+    "sourceLabel": "Triple Square & W/Transom",
+    "corroboratingSourceFile": "Pureline_GRP_Door_Catalogue (2).pdf",
+    "corroboratingSourcePage": 9,
+    "sourceCropPixels": [
+      1006,
+      436,
+      1634,
+      1696
+    ],
+    "specifications": {
+      "thicknessMm": 44,
+      "doorFrameWidthMm": "900 / 1000",
+      "doorFrameHeightMm": 2450
+    },
+    "depictedColour": "Rosewood",
+    "reviewStatus": "needs_review",
+    "ukPublished": false,
+    "ukAvailabilityConfirmed": false,
+    "imageRightsConfirmed": false,
+    "certificationApproved": false,
+    "publicationNotes": "Catalogue transcription only. Review exact model, frame versus leaf dimensions, UK availability, image rights and applicability before publication. No performance or compliance claim is verified by this record."
+  },
+  {
+    "name": "Single Diamond",
+    "family": "Exterior",
+    "slug": "single-diamond",
+    "image": "/images/single-diamond.webp",
+    "imageWidth": 594,
+    "imageHeight": 1148,
+    "sourcePage": 9,
+    "sourceFile": "PURELINE DOOR.pdf",
+    "sourceLabel": "Single Diamond",
+    "corroboratingSourceFile": "Pureline_GRP_Door_Catalogue (2).pdf",
+    "corroboratingSourcePage": 9,
+    "sourceCropPixels": [
+      1726,
+      908,
+      2320,
+      2056
+    ],
+    "specifications": {
+      "thicknessMm": 44,
+      "doorFrameWidthMm": "900 / 1000",
+      "doorFrameHeightMm": 2100
+    },
+    "depictedColour": "Dark blue",
+    "reviewStatus": "needs_review",
+    "ukPublished": false,
+    "ukAvailabilityConfirmed": false,
+    "imageRightsConfirmed": false,
+    "certificationApproved": false,
+    "publicationNotes": "Catalogue transcription only. Review exact model, frame versus leaf dimensions, UK availability, image rights and applicability before publication. No performance or compliance claim is verified by this record."
+  },
+  {
+    "name": "Rectangle Top",
+    "family": "Exterior",
+    "slug": "rectangle-top",
+    "image": "/images/rectangle-top.webp",
+    "imageWidth": 642,
+    "imageHeight": 1270,
+    "sourcePage": 10,
+    "sourceFile": "PURELINE DOOR.pdf",
+    "sourceLabel": "Rectangle Top",
+    "corroboratingSourceFile": "Pureline_GRP_Door_Catalogue (2).pdf",
+    "corroboratingSourcePage": 10,
+    "sourceCropPixels": [
+      1732,
+      866,
+      2374,
+      2136
+    ],
+    "specifications": {
+      "thicknessMm": 44,
+      "doorFrameWidthMm": "840-1100",
+      "doorFrameHeightMm": 2040
+    },
+    "depictedColour": "Light Oak",
+    "reviewStatus": "needs_review",
+    "ukPublished": false,
+    "ukAvailabilityConfirmed": false,
+    "imageRightsConfirmed": false,
+    "certificationApproved": false,
+    "publicationNotes": "Catalogue transcription only. Review exact model, frame versus leaf dimensions, UK availability, image rights and applicability before publication. No performance or compliance claim is verified by this record."
+  },
+  {
+    "name": "Half (4p) Glazed",
+    "family": "Exterior",
+    "slug": "half-glazed",
+    "image": "/images/half-glazed.webp",
+    "imageWidth": 572,
+    "imageHeight": 1158,
+    "sourcePage": 7,
+    "sourceFile": "PURELINE DOOR.pdf",
+    "sourceLabel": "Half (4p) Glazed",
+    "corroboratingSourceFile": "Pureline_GRP_Door_Catalogue (2).pdf",
+    "corroboratingSourcePage": 7,
+    "sourceCropPixels": [
+      1726,
+      916,
+      2298,
+      2074
+    ],
+    "specifications": {
+      "thicknessMm": 44,
+      "doorFrameWidthMm": "900 / 1000",
+      "doorFrameHeightMm": 2100
+    },
+    "depictedColour": "Dark blue",
+    "reviewStatus": "needs_review",
+    "ukPublished": false,
+    "ukAvailabilityConfirmed": false,
+    "imageRightsConfirmed": false,
+    "certificationApproved": false,
+    "publicationNotes": "Catalogue transcription only. Review exact model, frame versus leaf dimensions, UK availability, image rights and applicability before publication. No performance or compliance claim is verified by this record."
+  },
+  {
+    "name": "ENM Metal 4 Panel",
+    "family": "ENM Metal",
+    "slug": "enm-four-panel",
+    "image": "/images/enm-four-panel.webp",
+    "imageWidth": 622,
+    "imageHeight": 1184,
+    "sourcePage": 11,
+    "sourceFile": "PURELINE DOOR.pdf",
+    "sourceLabel": "ENM Metal 4 Panel",
+    "corroboratingSourceFile": "Pureline_GRP_Door_Catalogue (2).pdf",
+    "corroboratingSourcePage": 11,
+    "sourceCropPixels": [
+      1700,
+      872,
+      2322,
+      2056
+    ],
+    "specifications": {
+      "thicknessMm": 46,
+      "doorFrameWidthMm": 1000,
+      "doorFrameHeightMm": 2100
+    },
+    "depictedColour": "Dark blue / Rosewood",
+    "reviewStatus": "needs_review",
+    "ukPublished": false,
+    "ukAvailabilityConfirmed": false,
+    "imageRightsConfirmed": false,
+    "certificationApproved": false,
+    "publicationNotes": "Catalogue transcription only. Review exact model, frame versus leaf dimensions, UK availability, image rights and applicability before publication. No performance or compliance claim is verified by this record."
+  },
+  {
+    "name": "Smooth",
+    "family": "Smooth",
+    "slug": "smooth",
+    "image": "/images/smooth.webp",
+    "imageWidth": 566,
+    "imageHeight": 1264,
+    "sourcePage": 13,
+    "sourceFile": "PURELINE DOOR.pdf",
+    "sourceLabel": "Smooth",
+    "corroboratingSourceFile": "Pureline_GRP_Door_Catalogue (2).pdf",
+    "corroboratingSourcePage": 13,
+    "sourceCropPixels": [
+      156,
+      422,
+      722,
+      1686
+    ],
+    "specifications": {
+      "thicknessMm": 44,
+      "doorFrameWidthMm": "970 / 824",
+      "doorFrameHeightMm": 2070
+    },
+    "depictedColour": "White",
+    "reviewStatus": "needs_review",
+    "ukPublished": false,
+    "ukAvailabilityConfirmed": false,
+    "imageRightsConfirmed": false,
+    "certificationApproved": false,
+    "publicationNotes": "Catalogue transcription only. Review exact model, frame versus leaf dimensions, UK availability, image rights and applicability before publication. No performance or compliance claim is verified by this record."
+  },
+  {
+    "name": "Smooth 2 Panel Molding",
+    "family": "Smooth",
+    "slug": "smooth-two-panel",
+    "image": "/images/smooth-two-panel.webp",
+    "imageWidth": 568,
+    "imageHeight": 1236,
+    "sourcePage": 13,
+    "sourceFile": "PURELINE DOOR.pdf",
+    "sourceLabel": "Smooth 2 Panel Molding",
+    "corroboratingSourceFile": "Pureline_GRP_Door_Catalogue (2).pdf",
+    "corroboratingSourcePage": 13,
+    "sourceCropPixels": [
+      1834,
+      750,
+      2402,
+      1986
+    ],
+    "specifications": {
+      "thicknessMm": 44,
+      "doorFrameWidthMm": "970 / 824",
+      "doorFrameHeightMm": 2070
+    },
+    "depictedColour": "Light gray",
+    "reviewStatus": "needs_review",
+    "ukPublished": false,
+    "ukAvailabilityConfirmed": false,
+    "imageRightsConfirmed": false,
+    "certificationApproved": false,
+    "publicationNotes": "Catalogue transcription only. Review exact model, frame versus leaf dimensions, UK availability, image rights and applicability before publication. No performance or compliance claim is verified by this record."
+  },
+  {
+    "name": "8 Feet Smooth",
+    "family": "Sight Glass / Balcony",
+    "slug": "sight-glass",
+    "image": "/images/sight-glass.webp",
+    "imageWidth": 604,
+    "imageHeight": 1306,
+    "sourcePage": 15,
+    "sourceFile": "PURELINE DOOR.pdf",
+    "sourceLabel": "8 Feet Smooth",
+    "corroboratingSourceFile": "Pureline_GRP_Door_Catalogue (2).pdf",
+    "corroboratingSourcePage": 15,
+    "sourceCropPixels": [
+      172,
+      412,
+      776,
+      1718
+    ],
+    "specifications": {
+      "thicknessMm": 60,
+      "doorFrameWidthMm": 1000,
+      "doorFrameHeightMm": 2400
+    },
+    "depictedColour": "White",
+    "reviewStatus": "needs_review",
+    "ukPublished": false,
+    "ukAvailabilityConfirmed": false,
+    "imageRightsConfirmed": false,
+    "certificationApproved": false,
+    "publicationNotes": "Catalogue transcription only. Review exact model, frame versus leaf dimensions, UK availability, image rights and applicability before publication. No performance or compliance claim is verified by this record."
+  },
+  {
+    "name": "SDA-307",
+    "family": "ABS",
+    "slug": "abs-sda-307",
+    "image": "/images/abs-sda-307.webp",
+    "imageWidth": 592,
+    "imageHeight": 1362,
+    "sourcePage": 22,
+    "sourceFile": "PURELINE DOOR.pdf",
+    "sourceLabel": "SDA-307",
+    "corroboratingSourceFile": "Pureline_GRP_Door_Catalogue (2).pdf",
+    "corroboratingSourcePage": 22,
+    "sourceCropPixels": [
+      1858,
+      732,
+      2450,
+      2094
+    ],
+    "specifications": {
+      "thicknessMm": 35,
+      "doorFrameWidthMm": "600-1000",
+      "doorFrameHeightMm": "1800-2100"
+    },
+    "depictedColour": null,
+    "reviewStatus": "needs_review",
+    "ukPublished": false,
+    "ukAvailabilityConfirmed": false,
+    "imageRightsConfirmed": false,
+    "certificationApproved": false,
+    "publicationNotes": "Catalogue transcription only. Review exact model, frame versus leaf dimensions, UK availability, image rights and applicability before publication. No performance or compliance claim is verified by this record."
+  },
+  {
+    "name": "SDA-302",
+    "family": "ABS",
+    "slug": "abs-sda-302",
+    "image": "/images/abs-sda-302.webp",
+    "imageWidth": 590,
+    "imageHeight": 1364,
+    "sourcePage": 22,
+    "sourceFile": "PURELINE DOOR.pdf",
+    "sourceLabel": "SDA-302",
+    "corroboratingSourceFile": "Pureline_GRP_Door_Catalogue (2).pdf",
+    "corroboratingSourcePage": 22,
+    "sourceCropPixels": [
+      2584,
+      726,
+      3174,
+      2090
+    ],
+    "specifications": {
+      "thicknessMm": 35,
+      "doorFrameWidthMm": "800-1000",
+      "doorFrameHeightMm": "1900-2100"
+    },
+    "depictedColour": null,
+    "reviewStatus": "needs_review",
+    "ukPublished": false,
+    "ukAvailabilityConfirmed": false,
+    "imageRightsConfirmed": false,
+    "certificationApproved": false,
+    "publicationNotes": "Catalogue transcription only. Review exact model, frame versus leaf dimensions, UK availability, image rights and applicability before publication. No performance or compliance claim is verified by this record."
+  },
+  {
+    "name": "Hinged Door Frame",
+    "family": "GRP Frames",
+    "slug": "grp-hinged-frame",
+    "image": "/images/grp-hinged-frame.webp",
+    "imageWidth": 476,
+    "imageHeight": 1194,
+    "sourcePage": 17,
+    "sourceFile": "PURELINE DOOR.pdf",
+    "sourceLabel": "Hinged Door Frame",
+    "corroboratingSourceFile": "Pureline_GRP_Door_Catalogue (2).pdf",
+    "corroboratingSourcePage": 17,
+    "sourceCropPixels": [
+      1836,
+      404,
+      2312,
+      1598
+    ],
+    "specifications": {
+      "sourceModel": "SPDWFR112625",
+      "dimensionsMm": "1100 × 2640 × 250"
+    },
+    "depictedColour": "White",
+    "reviewStatus": "needs_review",
+    "ukPublished": false,
+    "ukAvailabilityConfirmed": false,
+    "imageRightsConfirmed": false,
+    "certificationApproved": false,
+    "publicationNotes": "Catalogue transcription only. Review exact model, frame versus leaf dimensions, UK availability, image rights and applicability before publication. No performance or compliance claim is verified by this record."
+  },
+  {
+    "name": "Shoe cabinet with 3 compartments",
+    "family": "GRP Cabinets",
+    "slug": "shoe-cabinet",
+    "image": "/images/shoe-cabinet.webp",
+    "imageWidth": 758,
+    "imageHeight": 544,
+    "sourcePage": 19,
+    "sourceFile": "PURELINE DOOR.pdf",
+    "sourceLabel": "Shoe cabinet with 3 compartments",
+    "corroboratingSourceFile": "Pureline_GRP_Door_Catalogue (2).pdf",
+    "corroboratingSourcePage": 19,
+    "sourceCropPixels": [
+      140,
+      436,
+      898,
+      980
+    ],
+    "specifications": {
+      "sourceModel": "SSC3XX183294",
+      "dimensionsMm": "1800 × 320 × 940"
+    },
+    "depictedColour": null,
+    "reviewStatus": "needs_review",
+    "ukPublished": false,
+    "ukAvailabilityConfirmed": false,
+    "imageRightsConfirmed": false,
+    "certificationApproved": false,
+    "publicationNotes": "Catalogue transcription only. Review exact model, frame versus leaf dimensions, UK availability, image rights and applicability before publication. No performance or compliance claim is verified by this record."
+  }
+]

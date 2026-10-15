@@ -1,0 +1,46 @@
+{
+  "name": "pureline-doors",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "next build",
+    "start": "next start --hostname 127.0.0.1",
+    "typecheck": "tsc --noEmit",
+    "test": "tsx --test tests/*.test.ts",
+    "leads:retry": "tsx scripts/retry-leads.ts",
+    "studio": "sanity dev",
+    "studio:build": "sanity build",
+    "test:browser": "playwright test",
+    "cms:import:check": "tsx src/sanity/import-source.ts"
+  },
+  "dependencies": {
+    "@gsap/react": "^2.1.2",
+    "@sanity/icons": "^5.2.3",
+    "gsap": "^3.15.0",
+    "lucide-react": "^0.468.0",
+    "next": "16.4.0",
+    "next-sanity": "13.3.4",
+    "pg": "^8.16.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "resend": "^6.0.0",
+    "sanity": "6.19.0",
+    "server-only": "^0.0.1",
+    "styled-components": "^6.1.0",
+    "zod": "^4.0.0"
+  },
+  "devDependencies": {
+    "@axe-core/playwright": "^4.10.0",
+    "@playwright/test": "^1.56.0",
+    "@types/node": "^22.0.0",
+    "@types/pg": "^8.15.0",
+    "@types/react": "^19.0.0",
+    "@types/react-dom": "^19.0.0",
+    "tsx": "^4.20.0",
+    "typescript": "^5.9.0"
+  },
+  "engines": {
+    "node": ">=22.12"
+  }
+}

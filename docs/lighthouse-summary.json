@@ -1,0 +1,33 @@
+{
+  "testedAt": "2026-10-14",
+  "context": "Local production preview; intentionally not indexable; headless Edge, Lighthouse 13.5.0",
+  "audits": {
+    "mobile": {
+      "fetched": "2026-10-14T11:26:14.879Z",
+      "categories": {
+        "performance": 96,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 69
+      },
+      "lcpMs": 2642.417375,
+      "tbtMs": 69.5,
+      "cls": 0,
+      "labelNameCheck": 0
+    },
+    "desktop": {
+      "fetched": "2026-10-14T11:23:31.349Z",
+      "categories": {
+        "performance": 100,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 69
+      },
+      "lcpMs": 633.9918,
+      "tbtMs": 0,
+      "cls": 0,
+      "labelNameCheck": 0
+    }
+  },
+  "note": "Performance samples precede the final wordmark accessible-name correction. The final production build passes the expanded WCAG 2.1 A/AA browser scan. SEO is intentionally blocked in preview."
+}

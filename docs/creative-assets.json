@@ -1,0 +1,251 @@
+[
+  {
+    "file": "/images/architecture/residential-exterior.webp",
+    "width": 2200,
+    "height": 1468,
+    "creator": "Max Vakhtbovych",
+    "sourceUrl": "https://www.pexels.com/photo/modern-minimalist-house-exterior-design-8134820/",
+    "downloadUrl": "https://images.pexels.com/photos/8134820/pexels-photo-8134820.jpeg?auto=compress&cs=tinysrgb&w=2200",
+    "licence": "Pexels License",
+    "licenceUrl": "https://www.pexels.com/license/",
+    "downloaded": "2026-10-14",
+    "role": "Architectural inspiration only; not a Pureline product, installation or facility.",
+    "processing": "EXIF orientation, proportion-preserving resize and WebP encoding only."
+  },
+  {
+    "file": "/images/architecture/woodland-entrance.webp",
+    "width": 1400,
+    "height": 2100,
+    "creator": "Nici Gottstein",
+    "sourceUrl": "https://www.pexels.com/photo/trees-and-pavement-by-house-18950082/",
+    "downloadUrl": "https://images.pexels.com/photos/18950082/pexels-photo-18950082.jpeg?auto=compress&cs=tinysrgb&w=2200",
+    "licence": "Pexels License",
+    "licenceUrl": "https://www.pexels.com/license/",
+    "downloaded": "2026-10-14",
+    "role": "Architectural inspiration only; not a Pureline product, installation or facility.",
+    "processing": "EXIF orientation, proportion-preserving resize and WebP encoding only."
+  },
+  {
+    "file": "/images/architecture/quiet-interior.webp",
+    "width": 1400,
+    "height": 1833,
+    "creator": "Max Vakhtbovych",
+    "sourceUrl": "https://www.pexels.com/photo/interior-of-light-hall-in-apartment-6447394/",
+    "downloadUrl": "https://images.pexels.com/photos/6447394/pexels-photo-6447394.jpeg?auto=compress&cs=tinysrgb&w=1600",
+    "licence": "Pexels License",
+    "licenceUrl": "https://www.pexels.com/license/",
+    "downloaded": "2026-10-14",
+    "role": "Architectural inspiration only; not a Pureline product, installation or facility.",
+    "processing": "EXIF orientation, proportion-preserving resize and WebP encoding only."
+  },
+  {
+    "file": "/images/architecture/public-interior.webp",
+    "width": 1400,
+    "height": 2096,
+    "creator": "ready made",
+    "sourceUrl": "https://www.pexels.com/photo/hall-of-modern-spacious-building-on-sunny-day-3964535/",
+    "downloadUrl": "https://images.pexels.com/photos/3964535/pexels-photo-3964535.jpeg?auto=compress&cs=tinysrgb&w=2200",
+    "licence": "Pexels License",
+    "licenceUrl": "https://www.pexels.com/license/",
+    "downloaded": "2026-10-14",
+    "role": "Architectural inspiration only; not a Pureline product, installation or facility.",
+    "processing": "EXIF orientation, proportion-preserving resize and WebP encoding only."
+  },
+  {
+    "file": "/images/architecture/residential-exterior-mobile.webp",
+    "width": 734,
+    "height": 1468,
+    "creator": "Max Vakhtbovych",
+    "sourceUrl": "https://www.pexels.com/photo/modern-minimalist-house-exterior-design-8134820/",
+    "downloadUrl": "https://images.pexels.com/photos/8134820/pexels-photo-8134820.jpeg?auto=compress&cs=tinysrgb&w=2200",
+    "licence": "Pexels License",
+    "licenceUrl": "https://www.pexels.com/license/",
+    "downloaded": "2026-10-14",
+    "role": "Architectural inspiration only; not a Pureline product, installation or facility.",
+    "processing": "Portrait crop from original download and WebP encoding; no enlargement or retouching.",
+    "parentImage": "/images/architecture/residential-exterior.webp",
+    "cropPixels": [
+      660,
+      0,
+      1394,
+      1468
+    ]
+  },
+  {
+    "file": "/images/details/grp-construction.webp",
+    "width": 652,
+    "height": 564,
+    "sourceFile": "PURELINE DOOR.pdf",
+    "sourcePage": 23,
+    "cropPoints": [
+      27,
+      205,
+      190,
+      346
+    ],
+    "reviewStatus": "needs_review",
+    "imageRightsConfirmed": false,
+    "role": "Exact source construction illustration; catalogue reference, applicability and rights pending approval."
+  },
+  {
+    "file": "/images/details/frame-construction.webp",
+    "width": 628,
+    "height": 560,
+    "sourceFile": "PURELINE DOOR.pdf",
+    "sourcePage": 23,
+    "cropPoints": [
+      221,
+      414,
+      378,
+      554
+    ],
+    "reviewStatus": "needs_review",
+    "imageRightsConfirmed": false,
+    "role": "Exact source construction illustration; catalogue reference, applicability and rights pending approval."
+  },
+  {
+    "file": "/images/details/bathroom-range.webp",
+    "sourceFile": "PURELINE DOOR.pdf",
+    "sourcePage": 16,
+    "sourceLabel": "6 Panels (Bathroom / Door)",
+    "cropPoints": [
+      40,
+      102,
+      188,
+      405
+    ],
+    "reviewStatus": "needs_review",
+    "imageRightsConfirmed": false,
+    "role": "Exact bathroom-family catalogue photograph; not fire-rating evidence or a newly approved UK model."
+  },
+  {
+    "file": "/images/details/woodgrain-detail.webp",
+    "sourceFile": "PURELINE DOOR.pdf",
+    "sourcePage": 10,
+    "parentImage": "/images/rectangle-top.webp",
+    "cropPixels": [
+      145,
+      690,
+      480,
+      1150
+    ],
+    "role": "Exact detail of Rectangle Top catalogue photograph; depicts wood-effect finish, not solid timber."
+  },
+  {
+    "creator": "Max Vakhtbovych",
+    "sourceUrl": "https://www.pexels.com/photo/a-house-with-a-modern-design-7598374/",
+    "downloadUrl": "https://images.pexels.com/photos/7598374/pexels-photo-7598374.jpeg?cs=srgb&fm=jpg&w=2400",
+    "licence": "Pexels License",
+    "licenceUrl": "https://www.pexels.com/license/",
+    "downloaded": "2026-10-14",
+    "role": "Architectural inspiration only; not a Pureline product, installation, UK location or facility.",
+    "file": "/images/architecture/forest-residence.webp",
+    "width": 2400,
+    "height": 1602,
+    "processing": "EXIF orientation and WebP encoding; no retouching or product substitution."
+  },
+  {
+    "creator": "Max Vakhtbovych",
+    "sourceUrl": "https://www.pexels.com/photo/a-house-with-a-modern-design-7598374/",
+    "downloadUrl": "https://images.pexels.com/photos/7598374/pexels-photo-7598374.jpeg?cs=srgb&fm=jpg&w=2400",
+    "licence": "Pexels License",
+    "licenceUrl": "https://www.pexels.com/license/",
+    "downloaded": "2026-10-14",
+    "role": "Architectural inspiration only; not a Pureline product, installation, UK location or facility.",
+    "file": "/images/architecture/forest-residence-mobile.webp",
+    "width": 993,
+    "height": 1602,
+    "parentImage": "/images/architecture/forest-residence.webp",
+    "cropPixels": [
+      900,
+      0,
+      1893,
+      1602
+    ],
+    "processing": "Dedicated portrait crop and proportion-preserving WebP encoding; no enlargement or retouching."
+  },
+  {
+    "creator": "Max Vakhtbovych",
+    "sourceUrl": "https://www.pexels.com/photo/a-house-with-a-modern-design-7598374/",
+    "downloadUrl": "https://images.pexels.com/photos/7598374/pexels-photo-7598374.jpeg?cs=srgb&fm=jpg&w=2400",
+    "licence": "Pexels License",
+    "licenceUrl": "https://www.pexels.com/license/",
+    "downloaded": "2026-10-14",
+    "role": "Architectural inspiration only; not a Pureline product, installation, UK location or facility.",
+    "file": "/images/architecture/forest-residence-1280.avif",
+    "width": 1280,
+    "height": 854,
+    "parentImage": "/images/architecture/forest-residence.webp",
+    "processing": "Proportion-preserving responsive AVIF encoding from the reviewed source pixels; no retouching."
+  },
+  {
+    "creator": "Max Vakhtbovych",
+    "sourceUrl": "https://www.pexels.com/photo/a-house-with-a-modern-design-7598374/",
+    "downloadUrl": "https://images.pexels.com/photos/7598374/pexels-photo-7598374.jpeg?cs=srgb&fm=jpg&w=2400",
+    "licence": "Pexels License",
+    "licenceUrl": "https://www.pexels.com/license/",
+    "downloaded": "2026-10-14",
+    "role": "Architectural inspiration only; not a Pureline product, installation, UK location or facility.",
+    "file": "/images/architecture/forest-residence-1920.avif",
+    "width": 1920,
+    "height": 1282,
+    "parentImage": "/images/architecture/forest-residence.webp",
+    "processing": "Proportion-preserving responsive AVIF encoding from the reviewed source pixels; no retouching."
+  },
+  {
+    "creator": "Max Vakhtbovych",
+    "sourceUrl": "https://www.pexels.com/photo/a-house-with-a-modern-design-7598374/",
+    "downloadUrl": "https://images.pexels.com/photos/7598374/pexels-photo-7598374.jpeg?cs=srgb&fm=jpg&w=2400",
+    "licence": "Pexels License",
+    "licenceUrl": "https://www.pexels.com/license/",
+    "downloaded": "2026-10-14",
+    "role": "Architectural inspiration only; not a Pureline product, installation, UK location or facility.",
+    "file": "/images/architecture/forest-residence-2400.avif",
+    "width": 2400,
+    "height": 1602,
+    "parentImage": "/images/architecture/forest-residence.webp",
+    "processing": "Proportion-preserving responsive AVIF encoding from the reviewed source pixels; no retouching."
+  },
+  {
+    "creator": "Max Vakhtbovych",
+    "sourceUrl": "https://www.pexels.com/photo/a-house-with-a-modern-design-7598374/",
+    "downloadUrl": "https://images.pexels.com/photos/7598374/pexels-photo-7598374.jpeg?cs=srgb&fm=jpg&w=2400",
+    "licence": "Pexels License",
+    "licenceUrl": "https://www.pexels.com/license/",
+    "downloaded": "2026-10-14",
+    "role": "Architectural inspiration only; not a Pureline product, installation, UK location or facility.",
+    "file": "/images/architecture/forest-residence-mobile-480.avif",
+    "width": 480,
+    "height": 774,
+    "parentImage": "/images/architecture/forest-residence-mobile.webp",
+    "processing": "Proportion-preserving responsive AVIF encoding from the reviewed source pixels; no retouching."
+  },
+  {
+    "creator": "Max Vakhtbovych",
+    "sourceUrl": "https://www.pexels.com/photo/a-house-with-a-modern-design-7598374/",
+    "downloadUrl": "https://images.pexels.com/photos/7598374/pexels-photo-7598374.jpeg?cs=srgb&fm=jpg&w=2400",
+    "licence": "Pexels License",
+    "licenceUrl": "https://www.pexels.com/license/",
+    "downloaded": "2026-10-14",
+    "role": "Architectural inspiration only; not a Pureline product, installation, UK location or facility.",
+    "file": "/images/architecture/forest-residence-mobile-768.avif",
+    "width": 768,
+    "height": 1239,
+    "parentImage": "/images/architecture/forest-residence-mobile.webp",
+    "processing": "Proportion-preserving responsive AVIF encoding from the reviewed source pixels; no retouching."
+  },
+  {
+    "creator": "Max Vakhtbovych",
+    "sourceUrl": "https://www.pexels.com/photo/a-house-with-a-modern-design-7598374/",
+    "downloadUrl": "https://images.pexels.com/photos/7598374/pexels-photo-7598374.jpeg?cs=srgb&fm=jpg&w=2400",
+    "licence": "Pexels License",
+    "licenceUrl": "https://www.pexels.com/license/",
+    "downloaded": "2026-10-14",
+    "role": "Architectural inspiration only; not a Pureline product, installation, UK location or facility.",
+    "file": "/images/architecture/forest-residence-mobile-993.avif",
+    "width": 993,
+    "height": 1602,
+    "parentImage": "/images/architecture/forest-residence-mobile.webp",
+    "processing": "Proportion-preserving responsive AVIF encoding from the reviewed source pixels; no retouching."
+  }
+]

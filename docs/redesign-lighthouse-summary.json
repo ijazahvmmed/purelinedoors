@@ -1,0 +1,33 @@
+{
+  "context": "Final Sonar/Upmind homepage production build on port 3001; headless Microsoft Edge Lighthouse lab audit, completed 15 October 2026",
+  "audits": {
+    "mobile": {
+      "lighthouseVersion": "13.5.0",
+      "fetchedAt": "2026-10-14T18:30:36.288Z",
+      "scores": {
+        "performance": 89,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 69
+      },
+      "lcpMs": 3548.57265,
+      "totalBlockingTimeMs": 120.99999999999977,
+      "cls": 0,
+      "consoleErrors": []
+    },
+    "desktop": {
+      "lighthouseVersion": "13.5.0",
+      "fetchedAt": "2026-10-14T18:28:36.542Z",
+      "scores": {
+        "performance": 99,
+        "accessibility": 100,
+        "best-practices": 100,
+        "seo": 69
+      },
+      "lcpMs": 929.9178,
+      "totalBlockingTimeMs": 0,
+      "cls": 0,
+      "consoleErrors": []
+    }
+  }
+}
