@@ -10,6 +10,7 @@ import { MotionRoot } from "@/components/motion-root";
 import "./globals.css";
 import "./creative.css";
 import "./homepage.css";
+import "./entrance.css";
 const satoshi = localFont({
   src: "./fonts/Satoshi-Variable.woff2",
   weight: "300 900",

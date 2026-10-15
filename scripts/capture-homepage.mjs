@@ -14,7 +14,7 @@ try {
     await page.locator(".hero[data-revealed=true]").waitFor();
     await page.locator("img").evaluateAll(images=>images.forEach(img=>img.loading="eager"));
     await page.waitForFunction(()=>[...document.images].every(img=>img.complete&&img.naturalWidth>0));
-    for(const [name,selector] of [["hero",".hero"],["introduction",".brand-introduction"],["collections",".collections"],["benefits",".home-benefits"],["performance",".performance-chapter"],["quality",".home-quality"],["applications",".applications-preview"],["faq",".home-faq"],["enquiry",".enquiry-banner"]]) {
+    for(const [name,selector] of [["hero",".hero"],["introduction",".brand-introduction"],["collections",".collections"],["entrance",".entrance-experience"],["benefits",".home-benefits"],["performance",".performance-chapter"],["quality",".home-quality"],["applications",".applications-preview"],["faq",".home-faq"],["enquiry",".enquiry-banner"]]) {
       if(name!=="hero") await page.locator(selector).evaluate(el=>el.scrollIntoView({behavior:"instant",block:"start"}));
       await page.waitForTimeout(1350);
       if(name==="benefits") {

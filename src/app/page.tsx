@@ -10,6 +10,7 @@ import { MotionGrid } from "@/components/motion-elements";
 import { ArchitecturePhoto } from "@/components/architecture-photo";
 import { HomeBenefits } from "@/components/home-benefits";
 import { HomeDisclosure } from "@/components/home-disclosure";
+import { EntranceExperience } from "@/components/entrance-experience";
 
 export const metadata = meta(
   "GRP & composite doors for considered spaces",
@@ -101,6 +102,8 @@ export default async function Home() {
           {products.slice(0, 4).map(p => <ProductCard key={p.id} product={p} imageSizes="(max-width:760px) 110px, 150px"/>)}
         </MotionGrid>
       </section>
+
+      <EntranceExperience/>
 
       <section className="section home-benefits" aria-labelledby="benefits-heading">
         <div className="section-heading"><div><Eyebrow>03 / Why Pureline</Eyebrow><h2 id="benefits-heading">Good design.<br/>Beyond the surface.</h2></div><div><p>Consider every part of the opening. Explore the details that matter to your project, then confirm the evidence for your selected doorset.</p><span className="benefits-instruction">Explore a benefit to see the detail<ArrowUpRight size={16}/></span></div></div>

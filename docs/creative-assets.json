@@ -247,5 +247,24 @@
     "height": 1602,
     "parentImage": "/images/architecture/forest-residence-mobile.webp",
     "processing": "Proportion-preserving responsive AVIF encoding from the reviewed source pixels; no retouching."
+  },
+  {
+    "file": "/images/entrance/arch-leaf.webp",
+    "width": 596,
+    "height": 1214,
+    "parentImage": "/images/arch.webp",
+    "sourceFile": "PURELINE DOOR.pdf",
+    "sourcePage": 10,
+    "sourceProductSlug": "arch",
+    "cropPixels": [
+      29,
+      28,
+      625,
+      1242
+    ],
+    "reviewStatus": "needs_review",
+    "imageRightsConfirmed": false,
+    "role": "Original catalogue leaf artwork for the interactive spatial study. Right-hand hinges and left-hand handle are visible in the source.",
+    "processing": "Crop and WebP encoding only. No recolouring, hardware replacement, generated product pixels or construction inference."
   }
 ]

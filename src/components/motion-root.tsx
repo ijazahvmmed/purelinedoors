@@ -124,7 +124,7 @@ export function MotionRoot({ children }: { children: React.ReactNode }) {
             root
               .querySelectorAll<HTMLElement>("h2")
               .forEach((heading, index) => {
-                if (heading.closest(".empty-state")) return;
+                if (heading.closest(".empty-state") || heading.hasAttribute("data-entrance-heading")) return;
                 const words =
                   heading.closest(".manufacturing-teaser, .enquiry-banner") !==
                   null;
