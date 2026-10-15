@@ -1,3 +1,13 @@
+# The Art of an Entrance — 15 October 2026
+
+The homepage now includes an interactive, source-faithful Arch door study between collections and benefits. Production build and TypeScript pass. All **24 browser scenarios** and **15 backend/publication tests** pass; the complete browser report is `entrance-browser-results.json`. Five entrance scenarios verify actual opaque-leaf 3D rotation and fixed right hinges, continuous bounded dragging and reversal, touch taps and CDP swipes, preserved vertical page scrolling, keyboard and native slider control, runtime reduced motion (including mid-drag), rapid interrupted intent changes, no-JavaScript fallback, navigation cleanup and section accessibility.
+
+Entrance layouts are checked at 320, 390, 768, 1024, 1440 and 1920px with no document overflow and the original leaf aspect ratio retained. Normal motion keeps the catalogue artwork opaque while it rotates from 0 to −82 degrees; reduced motion keeps rotation at zero and crossfades. Existing catalogue, enquiry, consent, menu, gallery, motion and SEO regressions remain covered. Verification uses Edge desktop and touch/mobile emulation; no physical-device or field-performance claim is made.
+
+Source details, reproducible asset preparation, control behaviour and scope are documented in `entrance-experience.md`. Closed, half-open and open desktop captures, closed/open mobile captures and two actual interaction recordings are in `previews/entrance/`. The full-homepage capture script now includes this tenth chapter. This work adds no animation library, WebGL runtime, invented product engineering detail or change to the existing publication gates.
+
+---
+
 # Sonar / Upmind homepage redesign — 15 October 2026
 
 The latest focused homepage redesign is documented in HOMEPAGE-REDESIGN.md. The supplied Sonar and Upmind screenshots and 25-second website video informed a woodland photographic hero, seven source-product collection routes, eight interactive editorial benefits, genuine construction studies, a deep-green quality chapter, architectural applications, native enhanced FAQs and a clear enquiry invitation. Original Satoshi and the supplied logo are retained. Responsive, pre-encoded AVIF hero sources have WebP fallbacks; the favicon is a small source-faithful derivative while the original logo PNG remains unchanged.
